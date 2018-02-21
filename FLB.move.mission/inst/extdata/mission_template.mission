@@ -1,0 +1,13 @@
+{
+    "firmwareType": 12,
+    "groundStation": "QGroundControl",
+    "items": [
+REPLACE_ROWS_HERE
+    ],
+    "plannedHomePosition": [
+        11.442468166351318,
+        108.97626113891602,
+        0
+    ],
+    "version": 2
+}

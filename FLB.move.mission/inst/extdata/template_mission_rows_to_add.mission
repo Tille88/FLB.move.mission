@@ -1,0 +1,18 @@
+        {
+            "autoContinue": true,
+            "command": COMMAND,
+            "coordinate": [
+                LAT,
+                LON,
+                REL_ALT
+            ],
+            "doJumpId": DO_JMP_ID,
+            "frame": FRAME,
+            "params": [
+                PARAM_1,
+                PARAM_2,
+                PARAM_3,
+                PARAM_4
+            ],
+            "type": "SimpleItem"
+        },

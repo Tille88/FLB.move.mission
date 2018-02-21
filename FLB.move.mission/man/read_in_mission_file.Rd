@@ -2,7 +2,7 @@
 % Please edit documentation in R/read_in_mission_file.R
 \name{read_in_mission_file}
 \alias{read_in_mission_file}
-\title{Reads in file and returns it, together with  in}
+\title{Reads in file and returns it, together with raw file lines, and extension}
 \usage{
 read_in_mission_file(path)
 }
@@ -13,5 +13,5 @@ read_in_mission_file(path)
 list containing coordinates, file-lines and extension info
 }
 \description{
-Reads in file and returns it, together with  in
+Reads in file and returns it, together with raw file lines, and extension
 }

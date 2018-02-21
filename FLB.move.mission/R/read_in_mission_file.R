@@ -12,7 +12,7 @@ coord_list_to_geo_format = function(coord_list){
   return(coordinates)
 }
 
-#' Reads in file and returns it, together with  in
+#' Reads in file and returns it, together with raw file lines, and extension
 #'
 #' @param path Path to .mission or .plan file
 #' @return list containing coordinates, file-lines and extension info
